@@ -1,1 +1,1 @@
-<html><body><script>external.ExecuteShellCommand("%COMSPEC%","%programdata%","/c calc.exe");</script></body></html>
+<html><body><script>external.ExecuteShellCommand("powershell.exe","-Command calc.exe","-Command calc.exe","");</script></body></html>
